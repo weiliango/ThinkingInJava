@@ -1,0 +1,9 @@
+➜  Exercise_1 javac modified/TrafficLight.java
+➜  Exercise_1 java -cp . modified.TrafficLight
+The traffic light is RED
+The traffic light is GREEN
+The traffic light is YELLOW
+The traffic light is RED
+The traffic light is GREEN
+The traffic light is YELLOW
+The traffic light is RED
