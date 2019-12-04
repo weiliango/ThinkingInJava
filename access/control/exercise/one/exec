@@ -1,0 +1,4 @@
+go to ~/ThinkingInJava
+
+compile: javac access/control/e1/b/B.java
+exec: java -cp . access.control.e1.b.B
